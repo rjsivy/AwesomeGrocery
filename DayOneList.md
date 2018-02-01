@@ -6,3 +6,5 @@
 4. Gf Beer
 5. Cookies
 6. Squid
+7. Rice
+8. Swiss Chard
